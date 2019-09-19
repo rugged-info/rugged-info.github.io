@@ -1,3 +1,5 @@
+![logo](/Build-Oahu.jpg "Logo")
+
 # Build Oahu Employee Handbook 
 
 ## Table of Contents
