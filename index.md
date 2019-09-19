@@ -6,7 +6,8 @@
 
 2. [Mission & Values](#Mission-&-Values)
 
-3. [Employee Conduct](#Employee-Conduct)
+<center>[Employee Conduct](#Employee-Conduct)</center>
+
 4. [Hours of Operation](#Hours-of-Operation)
 5. [Attendance & Punctuality](#Attendance-&-Punctuality)
 6. [Recording Your Time](#Recording-Your-Time)
