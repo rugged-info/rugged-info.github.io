@@ -3,7 +3,7 @@
 ## Table of Contents
 
 1. [Employee Acknowledgement Form](#employee-acknowledgement-form)
-### <center>[Introduction](#introduction)</center>
+### <center>#introduction</center>
 2. [Mission and Values](#mission-and-values)
 ### <center>[Employee Conduct](#employee-conduct)</center>
 3. [Hours of Operation](#hours-of-operation)
