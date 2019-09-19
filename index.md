@@ -74,7 +74,7 @@ No job is too small for our customers because we know if we're there for them to
 
 Our motto is design and build. We walk with our customers through each phase of the design, permit and construction process, because helping them when they need us creates less stress and leads to the high-quality homes they have always dreamed of. 
 
-[top](#Build-Oahu-Employee-Handbook)
+[top](#build-oahu-employee-handbook)
 
 ## Employee Conduct 
 
