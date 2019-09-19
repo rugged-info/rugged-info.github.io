@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. [Employee Acknowledgement Form](#Employee-Acknowledgement-Form)
+1. [Employee Acknowledgement Form](#employee-acknowledgement-form)
 
 2. [Mission & Values](#Mission-&-Values)
 
