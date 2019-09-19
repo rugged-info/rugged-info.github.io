@@ -1,3 +1,5 @@
+<center><img src="/Build-Oahu.jpg"></center>
+
 <p align="center">
     ![logo](/Build-Oahu.jpg "Logo")
 </p>
