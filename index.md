@@ -61,7 +61,11 @@ EMPLOYEE'S SIGNATURE: _________________________________________________
 
 DATE: __________________________________
 
+\pagebreak
+
 ## Introduction
+
+\pagebreak
 
 ### Mission and Values
 Build Oahu specializes in kitchens, bathrooms, additions and large renovations. 
