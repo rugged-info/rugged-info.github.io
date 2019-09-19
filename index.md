@@ -1,4 +1,4 @@
-<center><img src="/Build-Oahu.jpg"></center>
+<img src="/Build-Oahu.jpg" align="center">
 
 <p align="center">
     ![logo](/Build-Oahu.jpg "Logo")
