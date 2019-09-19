@@ -40,6 +40,8 @@
 32. [Immigration Law Compliance](#immigration-law-compliance)
 33. [Productive Work Environment](#productive-work-environment)
 
+<div style="page-break-after: always;"></div>
+
 ## Employee Acknowledgement Form 
 
 This employee handbook contains general statements of important policies, goals, benefits, and expectations of Build Oahu as well as other information that you will need. With that said, this  manual  should  not  be read as including all the details of each policy and it should not interpreted  as  forming  an  express  or  implied  contract  or  promise  that  the  policies discussed in it should be applied in all cases.  Management may add  to  the policies in the manual or revoke or modify them from time to time.  We will try to keep the manual current,  but  there  may  be  times  when  policy  will  change  before this  material  can  be revised.  
@@ -61,11 +63,11 @@ EMPLOYEE'S SIGNATURE: _________________________________________________
 
 DATE: __________________________________
 
-\pagebreak
+<div style="page-break-after: always;"></div>
 
 ## Introduction
 
-\pagebreak
+<div style="page-break-after: always;"></div> 
 
 ### Mission and Values
 Build Oahu specializes in kitchens, bathrooms, additions and large renovations. 
@@ -78,7 +80,11 @@ Our motto is design and build. We walk with our customers through each phase of 
 
 [Back to the top](#build-oahu-employee-handbook)
 
+<div style="page-break-after: always;"></div>
+
 ## Employee Conduct 
+
+<div style="page-break-after: always;"></div>
 
 ### Hours of Operation 
 The normal  hours  of  operation  for  all  employees  are  from  7:30  am  to  4:00 pm,  Monday through Friday. We expect you to be at the jobsite or working as directed at the beginning of your shift and stay on the clock until the end of the workday or the end of your shift. In general, this requires that you arrive at the job site about 15 minutes early to park, unload any tools, get focused and be prepared to start work. 
