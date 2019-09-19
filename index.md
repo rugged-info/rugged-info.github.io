@@ -1,8 +1,7 @@
-<center> 
-    <div>
-        ![logo](/Build-Oahu.jpg "Logo")
-    </div>
-</center>
+<div>
+    ![logo](/Build-Oahu.jpg "Logo")
+</div>
+
 
 # Build Oahu Employee Handbook 
 
