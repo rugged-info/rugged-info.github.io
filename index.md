@@ -4,11 +4,11 @@
 
 1. [Employee Acknowledgement Form](#employee-acknowledgement-form)
 
-#### <center>Introduction</center>
+### <center>Introduction</center>
 
 2. [Mission & Values](#Mission-&-Values)
 
-####<center>Employee Conduct</center>
+###<center>Employee Conduct</center>
 
 4. [Hours of Operation](#Hours-of-Operation)
 5. [Attendance & Punctuality](#Attendance-&-Punctuality)
