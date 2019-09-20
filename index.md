@@ -1,7 +1,5 @@
 <img src="/Build-Oahu.jpg">
 
-# Employee Handbook
-
 <div style="page-break-after: always;"></div>
 
 ## Table of Contents
@@ -65,6 +63,9 @@ EMPLOYEE'S NAME (printed): _______________________________________________
 EMPLOYEE'S SIGNATURE: _________________________________________________
 
 DATE: __________________________________
+
+
+[Back to the top](#employee-handbook)
 
 <div style="page-break-after: always;"></div>
 
