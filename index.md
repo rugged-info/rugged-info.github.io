@@ -6,7 +6,6 @@
 
 ## Table of Contents
 
-### Introduction
 1. [Employee Acknowledgement Form](#employee-acknowledgement-form)
 2. [Mission and Values](#mission-and-values)
 ### Employee Conduct
@@ -68,8 +67,6 @@ EMPLOYEE'S SIGNATURE: _________________________________________________
 DATE: __________________________________
 
 <div style="page-break-after: always;"></div>
-
-## Introduction
 
 ### Mission and Values
 Build Oahu specializes in kitchens, bathrooms, additions and large renovations. 
@@ -524,13 +521,13 @@ Employees are expected to maintain a productive work environment that is free fr
 
 Each employee has a responsibility to keep the workplace free of any form of harassment, and in particular, sexual harassment. No employee is to threaten or insinuate, either explicitly or implicitly, that another employee’s refusal or willingness to submit to sexual advances will affect the employee’s terms or condition of employment.   Other sexually harassing or offensive conduct in the workplace, whether committed by supervisors, 
 managers, non‐supervisory employees, or non‐employees, is also prohibited. This conduct includes: 
-1. Unwanted physical contact or conduct of any kind, including sexual flirtations, touching, advances, or 
+- Unwanted physical contact or conduct of any kind, including sexual flirtations, touching, advances, or 
 propositions; 
-2. Verbal harassment of a sexual nature, such as lewd comments, sexual jokes or references, and 
+- Verbal harassment of a sexual nature, such as lewd comments, sexual jokes or references, and 
 offensive personal reference; 
-3. Demeaning, insulting, intimidating, or sexually suggestive comments about an individual; 
-4. The display in the workplace of demeaning, insulting, intimidating, or sexually suggestive objects, pictures, or photographs; 
-5. Demeaning, insulting, intimidating, or sexually suggestive written, recorded, or electronically 
+- Demeaning, insulting, intimidating, or sexually suggestive comments about an individual; 
+- The display in the workplace of demeaning, insulting, intimidating, or sexually suggestive objects, pictures, or photographs; 
+- Demeaning, insulting, intimidating, or sexually suggestive written, recorded, or electronically 
 transmitted messages. 
 
 Any of the above conduct, or other offensive conduct, directed at individuals because of their race, sex, national origin, religion, disability, pregnancy, age, or military status is prohibited. 
