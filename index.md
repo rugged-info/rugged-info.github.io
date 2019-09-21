@@ -1,3 +1,8 @@
+---
+title: Build Oahu Employee Handbook
+category: resources
+---
+
 <img src="/Build-Oahu.jpg">
 
 <div style="page-break-after: always;"></div>

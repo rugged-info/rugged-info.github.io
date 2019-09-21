@@ -1,2 +1,3 @@
 title: Build Oahu Employee Handbook
 theme: jekyll-theme-leap-day
+collections_dir: collections
