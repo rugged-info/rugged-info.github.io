@@ -65,7 +65,7 @@ EMPLOYEE'S SIGNATURE: _________________________________________________
 DATE: __________________________________
 
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 <div style="page-break-after: always;"></div>
 
@@ -78,7 +78,7 @@ No job is too small for our customers because we know if we're there for them to
 
 Our motto is design and build. We walk with our customers through each phase of the design, permit and construction process, because helping them when they need us creates less stress and leads to the high-quality homes they have always dreamed of. 
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 <div style="page-break-after: always;"></div>
 
@@ -89,7 +89,7 @@ The normal  hours  of  operation  for  all  employees  are  from  7:30  am  to  
 
 Earlier or later hours may be required at times and there may be coordination calls that need to occur prior to or after your shift. The  possibility  of working  overtime  above  scheduled  hours  (including  weekend  hours)  will  always  be present and considered mandatory when the workload is excessive. For more information on overtime hours see the section of this handbook on [overtime](#Overtime).
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ### Attendance and Punctuality
 
@@ -97,26 +97,26 @@ We expect Build Oahu employees to arrive at work before you are scheduled to sta
 
 Unplanned absences can disrupt work, inconvenience other employees, and affect productivity. All unapproved absences will be noted in the employee's personnel file. Excessive absences (including leaving work early) or tardiness, including for illness or personal reasons, will result in disciplinary action, up to and including termination. 
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ### Recording Your Time 
 All Build Oahu employees are given a key fob they use to clock in and out of each job site using a system called TSheets. It is mandatory that you clock in and clock out of the specific jobsite where you are located, including clocking in and out for lunch.  If you leave the  facility  or  job  site  for  non‐business  reasons you must clock out.  Failure  to  do  any  of  the  above  will  result  in disciplinary  action  up  to  and  including  termination  and  possible  discrepancies  in  the amount  of  your  compensation.  
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ### Customer Contact 
 Treat all customers with utmost respect. Keep customer interactions brief, polite and professional. Avoid cursing or speaking loudly. Remember that we are working in our customers homes. Keep all work areas clean and organized at all times and do not track dirt and debris between work areas. 
 
 Any customer-related problems, including customers who are abusive or harassing, should be reported to your supervisor.  
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ### Appearance 
 Employees must appear clean and neat and wear company shirts when working. We provide each employee with 5 company shirts when hired. If an employee works for less than 6 months then he/she must return the shirts in good condition or a cost of 65 dollars will be taken from his/her last paycheck. There is no charge for employees who have worked for longer than 6 months.  
 
 Unpleasant body odors which are a result of lack of hygience should be avoided and could result in dismissal because they affect an employees ability to interact with customers and co-workers in a professional manner.   
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ### Tools
 Employees are expected to own the tools and equipment they use on a daily basis at a construction site. These tools include, but are not limited to:
@@ -180,7 +180,7 @@ This list is an example only and is not all-inclusive.
 
 Since your employment with Build Oahu is voluntary and at will, you may terminate your employment at any time you want, with or without cause or advance notice. Likewise, Build Oahu may terminate your employment at any time, with or without cause or advance notice.
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ### Drug and Alcohol Use
 Employees may not use, possess, distribute, sell, or be under the influence of alcohol or illegal drugs while while conducting any business-related activity.
@@ -191,7 +191,7 @@ In the event of a job-related accident, drug testing may be required.  Also, we 
 
 If you violate this policy, it may lead to disciplinary action, up to and including immediate termination of your employment. If you violate this policy, there could also be legal consequences. 
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 <div style="page-break-after: always;"></div>
 
@@ -206,7 +206,7 @@ Your pay statement will be emailed to you at the email address you provide, and 
 your gross pay and itemized deductions for all time worked through the preceding 
 payroll week. If you discover a mistake on your pay statement, notify your supervisor as soon as you notice the mistake. 
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ### Overtime 
 Overtime work must be approved in advance by the Owner. On occasion, Build Oahu employees must work overtime in order to achieve the quality of work for our customers that reflects our mission and values. If directed, you are expected to work necessary overtime during these occasions. Full-time employees will  receive  time  and  one‐half  pay  for  time worked  exceeding  40  hours  in  any  given workweek. Temporary employees do not receive overtime. 
@@ -215,7 +215,7 @@ There may be operations that require you to work at night. Work outside of norma
 
 Your supervisor will inform you of the need to work overtime hours in a timely manner with as much lead time as possible. 
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ### Rest and Lunch Breaks 
 It is our policy to provide two 10‐minute rest breaks and a 30-minute lunch break during the course of each full workday. Usually you may take one break in the morning and one in the afternoon, but your supervisor may change the frequency and time of rest breaks if necessary. Time spent on your 10‐minute breaks will be compensated as working time. Normal break times are scheduled around 10:00 am and 3:00 pm. 
@@ -229,7 +229,7 @@ remain at work during your break, you are not entitled to arrive later than the
 scheduled starting time or leave before the normal quitting time and will not receive 
 extra pay for the time worked.
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ### Health Insurance
 Build Oahu provides individual medical, dental and vision health care plans to all full-time employees at no additional cost to the employee. 
@@ -240,7 +240,7 @@ Extended health care coverage for family members and other dependents is availab
 
 For more information on health care coverage and cost you can speak with the Owner of Build Oahu. 
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ### Leave
 
@@ -252,23 +252,23 @@ All leave should be requested in writing via email to your supervisor and your s
 
 Vacation days should be requested a minimum of two weeks in advance. Time off for medical appointments, personal or family reasons should be requested as far in advance as possible, preferably a week or more. If unexpected illness or family emergencies occur, please notify your supervisor as soon as you realize you will need to take time off from work.   
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ### Holidays
 Build Oahu does not provide paid leave for any recognized federal or state holidays at this time; however, work during federal holidays is optional for all employees and the company does shut down for business on and around Christmas and Thanksgiving. 
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ### Payroll Deductions 
 We are required by law to make deductions for Federal and State withholding Taxes and 
 Social Security. We must also pay Social Security Tax in an amount equal to that being deducted from your paycheck, up to a maximum set by law. Management will honor any court‐ordered or other legally authorized wage garnishment. Deductions will also be made for health insurance if you have chosen to extend our individual health care benefits to additional members of your family. For more information on the health care benefits of employment with Build Oahu see the section on [wages and benefits](#Wages-and-Benefits)
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ## Continuation of Insurance (COBRA) 
 Upon separation from the company for any reason other than gross misconduct, you  may elect to continue group medical coverage for a limited time at group rates; however, You will be required to pay the full premium. It may also possible to convert other group plans  to individual plans. The Office Manager will discuss details on the conversion of any  benefits at the time of your separation by. You may, of course, request information on  this subject at any time prior to actual separation. 
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ## Workers' Compensation 
 Build Oahu provides a  workers' compensation insurance program to employees which may cover you if you are injured on the job. This program does not cost you anything. 
@@ -279,7 +279,7 @@ Workers' compensation covers only work-related injuries and illnesses. Neither t
 
 It is your responsibility to immediately notify your supervisor and the Owner, James Kijek on the day of the incident of any injuries you sustain while on the job. It is very important that you tell your supervisor immediately about any work-related injury or illness, regardless of how minor it might seem at the time. Prompt reporting helps to make sure that you qualify for coverage as quickly as possible and allows us to investigate the matter promptly. 
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 <div style="page-break-after: always;"></div>
 
@@ -297,7 +297,7 @@ Management will do its part by devoting the resources necessary to develop and m
 
 Safety is a team effort – Let us all work together to keep this a safe and healthy workplace
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ### Safety and Healthy Responsibilities
 
@@ -335,7 +335,7 @@ Employee responsibilities:
 - Encourage co-workers by your words and example to use safe work practices on the job.
 - Make suggestions to your supervisor or the owner about changes you believe will improve employee safety.
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ### Disciplinary Policy
 Employees are expected to use good judgment when doing their work and to follow established safety rules. We
@@ -352,13 +352,13 @@ Fourth Instance -- Termination of employment.
 An employee may be subject to immediate termination when a safety violation places the employee or co-workers at
 risk of permanent disability or death. 
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ### Employee Safety Meetings
 All employees are required to regularly attend monthly safety meetings held on the last Friday each month at the Shop. This meeting is to help identify safety problems, develop solutions, review incidents and reports, provide
 training and evaluate the effectiveness of our safety program. 
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ### Incident Reporting and Record Keeping
 Employees are required to report any injury or work related illness to their immediate supervisor regardless of how
@@ -387,7 +387,7 @@ The following types of incidents must be recorded on OSHA Form 300 but DO NOT NE
 
 Any incident included in the OSHA form 300, or any injury that could have resulted in serious injury (near-miss) will be investigated using the [Incident Investigation Procedure](#Incident-Investigation-Procedure) below.  
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ### Incident Investigation Procedure
 
@@ -401,7 +401,7 @@ When James Kijek or a supervisor becomes aware of an employee injury which must 
 
 Whenever there is an incident that did not but could have resulted in serious injury to an employee (a near-miss), the incident will be investigated by the supervisor or a team depending on the seriousness of the injury that would have occurred. The resulting report will be clearly marked to indicate that it was a near miss and that no actual injury occurred and the report will be to the Incident Log.
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ### Eliminating Workplace Hazards
 Build Oahu is committed to eliminating or controlling workplace hazards that could cause injury or illness to our
@@ -422,7 +422,7 @@ safety committee representative. We will find a safer way to do that job.
 - Clean up spills immediately. Replace all tools and supplies after use. Do not allow scraps to accumulate where
 they will become a hazard. Good housekeeping helps prevent injuries
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 <div style="page-break-after: always;"></div>
 
@@ -435,7 +435,7 @@ This handbook is not a contract or legal document, nor is it an invitation to co
 
 These provisions replace all other existing policies and practices and may not be changed or added to without the express written approval of the chief executive officer of the Company.
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ### Evaluation Period of Employment
 The first 60 calendar days of full-time employment is an evaluation period for new and rehired employees. During this evaluation period, we will evaluate your work habits and abilities to make sure that you can perform your job satisfactorily. The evaluation period also gives you time to decide if the new job meets your expectations.
@@ -448,21 +448,21 @@ After you have been employed for 60 days, you will be reviewed by your superviso
 
 Employment both before and after the evaluation period is at-will, you or the company may terminate your employment at any time, with or without cause or advance notice. 
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
  
 ### Performance Appraisals
 An employee and his/her supervisor should discuss job performance and goals on an informal, day-to-day basis. In addition, supervisors will schedule a meeting with you on or around January 31 and August 1 of each year to discuss your work and goals, identify and correct areas for improvement, and to encourage and recognize your strengths. 
 
 Information  derived  from  the  appraisal  may  be  considered  when  making  decisions affecting  training,  pay,  promotion,  transfer, or  continued  employment. Performance evaluations are not automatically tied to pay increases. 
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ### Drug Testing
 There can be serious safety and health risks if an employee uses or is under the influence of drugs on the job. 
 
 All job applicants are required to pass a drug test to be considered eligible for employment. We may also ask employees to provide body substance samples, such as urine and/or blood, post-accident, randomly or for suspicious behavior. We will use the samples to check for the illegal or illicit use of drugs. If you refuse to be tested for drugs, you may be subject to disciplinary action, up to and including termination of employment. 
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ### Equal Employment Opportunity
 Build Oahu is an equal employment opportunity employer.  We maintain a policy  of  non‐discrimination  against employees  or  job  applicants  on  the  basis  of  race, religion, color, sex, age, national origin, handicap, military status, disability or any other status  or  characteristic  protected  by  applicable  state  laws,  except  where  a  bona  fide occupational qualification applies. 
@@ -471,7 +471,7 @@ We will recruit, hire, train and promote persons in all job classifications.  Fu
 
 If you have a question about any type of discrimination at work, talk with your immediate supervisor the Operations Manager or the Owner. You will not be punished for asking questions about this. Also, if we find out that anyone was illegally discriminating, that person will be subject to disciplinary action, up to and including termination of employment.
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ### Disability Accommodation
 It is the policy of Build Oahu to comply with the Americans with Disabilities Act (ADA) and The ADA Amendments Act of 2008. 
@@ -504,7 +504,7 @@ If you are hospitalized or out of work and wish for us to make other employees a
 
 If you have questions or concerns about life-threatening illnesses, you should contact the Human Resources Department for information and referral to appropriate services and resources.
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ### Immigration Law Compliance
 Build Oahu will employ only United States citizens and those non-United States citizens who are authorized to work in the United States. We will comply with all aspects of the Immigration Reform and Control Act of 1986. Build Oahu will not discriminate on the basis of national origin or citizenship. 
@@ -513,7 +513,7 @@ As a condition of employment, each new employee must complete the Employment Eli
 
 Former employees who are rehired must complete another Form I-9 if the previous I-9 with the Company is more than three years old, or if the original I-9 is not accurate anymore, or if we no longer have the original I-9. If you have questions or want information on the immigration laws, contact the Operations Manager, or the Owner. If you ask questions or want to complain about the immigration law, you will not be punished in any way.
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
 ## Productive Work Environment
 It is our goal to promote a productive work environment and not to tolerate verbal or physical conduct by any employee that harasses, disrupts, or interferes with another’s work performance or that creates an intimidating, offensive, or hostile environment.  
@@ -537,5 +537,5 @@ Any employee who believes that a supervisor’s, other employee’s or non‐emp
 
 Any complaint of harassment will be handled and investigated.  All complaints of harassment will be investigated promptly and in as impartial and confidential a manner as possible. Employees are required to cooperate in any investigation.  A timely resolution of each complaint should be reached and communicated to the parties involved.  Any employee who is found to have violated the harassment policy will be subject to appropriate disciplinary action, up to and including termination. Management prohibits any form of retaliation against employees for bringing bona fide complaints or providing information about harassment.  
 
-[Back to the top](#employee-handbook)
+[Back to the top](#table-of-contents)
 
